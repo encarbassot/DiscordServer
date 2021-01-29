@@ -5,19 +5,31 @@ __DISCLAMER this bot, it's only for the jajas don't take it seriously__
 
 ###commands and what they do:
 
+
   *__!8ball__
+  
     will respond any question that you have
+    
   *__!vote__
+  
     will add 👍 & 👎 reactions to your message
+    
   *__!poll__
+  
     _!poll What we play?**;**Minecraft**;**Battlefront**;**Club Penguin__
+    
     given by parameters separated with __;__ first been the question and
     the others, the options will present the poll for you
+    
   *__!gif__
+  
     if no search specified will respond with a random gif
     given by parameters a search will respond with a gif,
+    
       *_!gif little potatoe_
+      
   *__!calc__
+  
     will respond with the solution
     _TODO multiplications with * will react discord boldFormat_
   *__!throw__
