@@ -69,5 +69,4 @@ __DISCLAMER this bot, it's only for the jajas don't take it seriously__
 
 this bot has been inspired by:
 
-  *[Daniel Shiffman](https://youtube.com/playlist?list=PLRqwX-V7Uu6avBYxeBSwF48YhAnSn_sA4)
-  *[C.J. Coding Garden](https://www.youtube.com/watch?v=gzM7kj6gV5I&t=4201s)
+  [Daniel Shiffman](https://youtube.com/playlist?list=PLRqwX-V7Uu6avBYxeBSwF48YhAnSn_sA4) & [C.J. Coding Garden](https://www.youtube.com/watch?v=gzM7kj6gV5I&t=4201s)
