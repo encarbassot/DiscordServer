@@ -54,4 +54,4 @@
 
 
 
-this bot has been inspired by [Daniel Shiffman](https://youtube.com/playlist?list=PLRqwX-V7Uu6avBYxeBSwF48YhAnSn_sA4) & [C.J. Coding Garden](https://www.youtube.com/watch?v=gzM7kj6gV5I&t=4201s)
+this bot has been inspired by [D.S. Coding Train](https://youtube.com/playlist?list=PLRqwX-V7Uu6avBYxeBSwF48YhAnSn_sA4) & [C.J. Coding Garden](https://www.youtube.com/watch?v=gzM7kj6gV5I&t=4201s)
