@@ -2,6 +2,8 @@
 __DISCLAMER this bot, it's only for the jajas don't take it seriously__
 
 
+test
+
 ###commands and what they do:
 
   - __!8ball__
