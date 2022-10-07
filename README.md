@@ -1,5 +1,8 @@
 # This is my humble bot
 
+hellooo
+
+
 ##### __DISCLAMER this bot, it's only for the jajas don't take it seriously__
 
 ### commands and what they do:
