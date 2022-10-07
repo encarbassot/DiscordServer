@@ -21,6 +21,13 @@ th.client.on('message',(msg) => {
   commandHandler.message(msg,th)
 })
 
+
+client.on('guildCreate', guild => {
+  const channel = guild.channels.cache.find(channel => channel.type === 'text' && channel.permissionsFor(guild.me).has('SEND_MESSAGES'))
+  channel.send("Gracias por invitarme a vuestro servidor\nUsa **!help** para ver todo lo que soy capaz de hacer")
+})
+
+
 // th.client.on('react',(msg) => {
 //   commandHandler.react(msg,th)
 // })
